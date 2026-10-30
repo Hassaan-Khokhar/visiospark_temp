@@ -54,7 +54,7 @@ function App() {
             </div>
             <div>
               <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">
-                VisioSpark Portal 2.0
+                VisioSpark Portal Beta
               </h1>
               <p className="text-gray-400 text-sm tracking-wide">COMSATS WAH CAMPUS IT MEGA EVENT</p>
             </div>
